@@ -1,2 +1,3 @@
-# Kokoa-clone
-kakao talk app
+# Kokoa-clone start!
+
+I will be a digital NOMAD
